@@ -82,11 +82,12 @@ Ao final do curso, o aluno deverá ser capaz de:
 ### Básica
 
 - SPARRE, P.; VENEMA, S. C. *Introdução à avaliação de mananciais de peixes tropicais*. FAO.  
-- HILBORN, R.; WALTERS, C. J. *Quantitative Fish Stock Assessment: Choice, Dynamics and Uncertainty*.  
-- DOWNEY, A. B. *Pense em Python*. Novatec, 2016.  
+- BISWAS, K. P. *Design Construction and Uses of Trawal Fishing Gear *.  
+- ZILL, D. G. *Equações Diferenciais com Aplicações em Modelagem*. Cengage Learning, 2016
+- TIMMONS, M. B.; EBELING, J. M. *Recirculating Aquaculture*.  
 
 ### Complementar
 
-- TIMMONS, M. B.; EBELING, J. M. *Recirculating Aquaculture*.  
-- ZILL, D. G. *Equações Diferenciais com Aplicações em Modelagem*. Cengage Learning, 2016.  
+- DOWNEY, A. B. *Pense em Python*. Novatec, 2016.   
+- HILBORN, R.; WALTERS, C. J. Quantitative Fish Stock Assessment.  
 - MEADOWS, D. *Pensando em sistemas: Como o pensamento sistêmico pode ajudar a resolver os grandes problemas globais*.  
